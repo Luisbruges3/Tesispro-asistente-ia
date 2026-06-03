@@ -31,12 +31,10 @@ de forma automática según la intención detectada.
 ---
 
 ## Estructura del repositorio
-├── README.md
-├── 02_prompt_y_guion.md         
- Prompt del clasificador y guion de bienvenida
-├── notebook_clasificador.ipynb 
- Evaluación del modelo con métricas
-└── index.html                   
+ README.md
+ 02_prompt_y_guion.md -  Prompt del clasificador y guion de bienvenida        
+ notebook_clasificador.ipynb 
+ index.html                   
  Landing page (GitHub Pages)
 
 ---
