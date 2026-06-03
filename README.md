@@ -17,6 +17,13 @@ de forma automática según la intención detectada.
 
 ---
 
+## Landing Page
+
+🌐 [Ver landing page]
+https://luisbruges3.github.io/Tesispro-asistente-ia/
+
+---
+
 ## Tecnologías usadas
 
 | Herramienta | Uso |
